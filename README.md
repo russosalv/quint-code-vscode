@@ -1,5 +1,7 @@
 <img src="assets/banner.svg" alt="Quint Code" width="600">
 
+> Fork of [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) with added **Windows support** and **GitHub Copilot** compatibility.
+
 **Structured reasoning for AI coding tools** — make better decisions, remember why you made them.
 
 **Supports:** Claude Code, Cursor, Gemini CLI, Codex CLI, GitHub Copilot
